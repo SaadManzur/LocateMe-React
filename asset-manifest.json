@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LocateMe-React/static/css/main.93f6953c.css",
+    "main.js": "/LocateMe-React/static/js/main.36b090d4.js",
+    "static/js/787.77c591e7.chunk.js": "/LocateMe-React/static/js/787.77c591e7.chunk.js",
+    "static/media/logo.svg": "/LocateMe-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LocateMe-React/index.html",
+    "main.93f6953c.css.map": "/LocateMe-React/static/css/main.93f6953c.css.map",
+    "main.36b090d4.js.map": "/LocateMe-React/static/js/main.36b090d4.js.map",
+    "787.77c591e7.chunk.js.map": "/LocateMe-React/static/js/787.77c591e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f6953c.css",
+    "static/js/main.36b090d4.js"
+  ]
+}
